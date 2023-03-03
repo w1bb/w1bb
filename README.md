@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page.
 
-I'm **Valentin**, a **compute science student** currently studying at University POLITEHNICA of Bucharest.
+I'm **Valentin**, a **computer science student** currently studying at University POLITEHNICA of Bucharest.
 
 ### Let's get in touch
 
